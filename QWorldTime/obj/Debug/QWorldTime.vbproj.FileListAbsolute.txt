@@ -1,0 +1,36 @@
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\bin\Debug\QWorldTime.exe.config
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\bin\Debug\QWorldTime.exe
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\bin\Debug\QWorldTime.pdb
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\bin\Debug\QWorldTime.xml
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.Clock.resources
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.Resources.resources
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.vbproj.GenerateResource.Cache
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.exe
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.xml
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.pdb
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.Map.resources
+C:\Users\fabio.b\AppData\Local\Temporary Projects\QWorldTime\obj\Debug\QWorldTime.Main.resources
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.exe.config
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.exe
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.xml
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.pdb
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.exe
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.pdb
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.xml
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Clock.resources
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Main.resources
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Map.resources
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Resources.resources
+E:\2. Projetos\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.vbproj.GenerateResource.Cache
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.exe.config
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.exe
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.xml
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.pdb
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.exe
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.pdb
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\bin\Debug\QWorldTime.xml
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Clock.resources
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Main.resources
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Map.resources
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.Resources.resources
+C:\Users\fabio.b\Documents\Visual Studio 2012\Projects\QWorldTime\QWorldTime\obj\Debug\QWorldTime.vbproj.GenerateResource.Cache
